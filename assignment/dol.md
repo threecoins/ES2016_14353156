@@ -11,7 +11,6 @@
 >![](http://i1.piimg.com/567571/376e6d9f03f50efe.jpg)
 >#### 3.example1修改后的输出结果
 >![](http://i1.piimg.com/567571/d54ecb1bfd83f9ac.jpg)
->$	pwd #输出当前的工作路径
 
 
 ###修改方法
