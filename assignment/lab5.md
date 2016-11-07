@@ -8,13 +8,13 @@
 ### 安装ros过程记录
 >#### 添加软件源到sources.list
 >sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
->![](http://7xrn7f.com1.z0.glb.clouddn.com/16-11-7/30635510.jpg)
+
 >#### 设置密钥
 >sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 0xB01FA116
 >#### 安装
 >##
 >#####1.确认Debian的软件包索引是最新的
->sudo apt-get update
+>sudo apt-get update>![](http://7xrn7f.com1.z0.glb.clouddn.com/16-11-7/30635510.jpg)
 >#####2.完全安装ROS Desktop
 >sudo apt-get install ros-jade-desktop-full
 >![](http://7xrn7f.com1.z0.glb.clouddn.com/16-11-7/80832235.jpg)
