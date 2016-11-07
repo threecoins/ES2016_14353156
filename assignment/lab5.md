@@ -14,7 +14,8 @@
 >#### 安装
 >##
 >#####1.确认Debian的软件包索引是最新的
->sudo apt-get update>![](http://7xrn7f.com1.z0.glb.clouddn.com/16-11-7/30635510.jpg)
+>sudo apt-get update
+>![](http://7xrn7f.com1.z0.glb.clouddn.com/16-11-7/30635510.jpg)
 >#####2.完全安装ROS Desktop
 >sudo apt-get install ros-jade-desktop-full
 >![](http://7xrn7f.com1.z0.glb.clouddn.com/16-11-7/80832235.jpg)
